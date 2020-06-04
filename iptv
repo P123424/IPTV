@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Arena 1
+http://srb.00387.info/ArenaSport1SR/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Arena 2
+http://srb.00387.info/ArenaSport2SR/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Arena 3
+http://srb.00387.info/ArenaSport3SR/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Arena 4
+http://srb.00387.info/ArenaSport4SR/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Sport Klub 1
+http://srb.00387.info/SportKlubSR1HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Sport Klub 2
+https://sport7.ws/lba/Njg2ZjI4Nzg3NzQ0YjhiMDkzODY2MzU4YjgyNDFhYWY=/g1/sk2serbia.m3u8?token=Njg2ZjI4Nzg3NzQ0YjhiMDkzODY2MzU4YjgyNDFhYWY=&id=ZTNhOGY3MjUzYTc5MzZkYTk2OTRjZWQzOWUzYWM3OTk=&vip=1591273438&dip=NGFmNjhkNTI5NTg1MjgxYTQ3MDViM2ZjMTRmNTdkOWI=&pip=OWExZTVhZGRjOWUzMzVjMTRjZGY2ZjhmZTdmNzA5Njk=&hip=NDQyODQzOGEwMTgxNGI2YzJhMjQzMGE4MGY3N2VlZGE=
+#EXTINF:-1,Sport Klub 3
+https://sport7.ws/lba/NjRmNTZlOTZiY2IyMWViZmMxZjc2YjkyYTA4NTI3MmU=/g2/rs3sk.m3u8?token=NjRmNTZlOTZiY2IyMWViZmMxZjc2YjkyYTA4NTI3MmU=&id=ODg1NjQ0NzZhNTUxMTRhOThkMjc3NTU3YzI4MjkxOTg=&vip=1591272935&dip=ZTRjNDZjNWJlNjI4OTIzYmVlZTgxZGIzODMwYzgwYTU=&pip=OWExZTVhZGRjOWUzMzVjMTRjZGY2ZjhmZTdmNzA5Njk=&hip=NDQyODQzOGEwMTgxNGI2YzJhMjQzMGE4MGY3N2VlZGE=
+
+
+
+
